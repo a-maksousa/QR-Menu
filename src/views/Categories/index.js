@@ -1,13 +1,12 @@
 import React from "react";
 import { Grid, Segment } from "semantic-ui-react";
 import CategoriesList from "./CategoriesList";
-import Burgers from "../../images/Burgers.jpeg";
 const Categories = (props) => {
   const data = [
     {
       id: 1,
       name: "Burgers",
-      image: Burgers,
+      image: "https://media-cdn.tripadvisor.com/media/photo-s/17/ba/a6/31/burger.jpg",
     },
     {
       id: 2,
@@ -17,7 +16,6 @@ const Categories = (props) => {
     {
       id: 3,
       name: "Appetizers",
-      image: Burgers,
       image:"https://motherwouldknow.com/wp-content/uploads/2018/04/2018-04-15-mini-muffin-cups-four-sq-IMG_8955-w.jpg"
     },
     {

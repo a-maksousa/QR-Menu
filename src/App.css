@@ -3,14 +3,10 @@
   color: #8e4343 !important;
 }
 
-.headerIcon{
-  margin-top: 20px;
-}
-
 .itemImage{
   height: 100% !important;
 }
 
-.card{
-  min-height: 11.4285em !important;
+.headerIcon{
+  margin-top: 20px;
 }
