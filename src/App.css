@@ -10,3 +10,21 @@
 .headerIcon{
   margin-top: 20px;
 }
+
+.itemscontent{
+  color: #ffffff !important;
+  text-align: center;
+  padding: 10px;
+}
+
+.itemheader{
+   font-family: "Arial Black", sans-serif;
+   font-size: 1.7em;
+   letter-spacing: -1px;
+   color: #fff;
+}
+
+.itemprice{
+  color: #e90e0e !important;
+  font-size: 1.3em;
+}
